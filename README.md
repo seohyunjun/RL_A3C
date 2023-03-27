@@ -33,3 +33,30 @@ AutoROM --accept-license (rom license Y 후 ale_py rom으로 파일 이동)
 <br>
 
 
+## DQN(Deep Q-Network) 
+         
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B31.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B32.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B33.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B34.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B35.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B36.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B36.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B37.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B38.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B39.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B310.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B311.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B312.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B313.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B314.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B315.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B316.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B317.jpeg" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/ppt/A3C/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B318.jpeg" height=80% width=80% >
+
+
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/data/network_1.gif" width="75%" height="75%" >
+<img src="https://github.com/seohyunjun/RL_A3C/blob/main/data/global_reward.png" height=80% width=80% >
+
+
